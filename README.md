@@ -2,4 +2,4 @@
 
 
 Hey, guys I'm still working on the roblox studio script and the routes (API)
-stay tunes!
+stay tuned!
